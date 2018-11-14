@@ -1,0 +1,135 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Helvetica-Bold",
+              "size": 24
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 72,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Helvetica",
+              "size": 16
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 5763,
+        "location": 72
+      }
+    ],
+    "string": "Welcome to the MMC! We are here to help YOU with all things Multimedia!\n\nThe MMC provides EWU students, faculty, and staff access to high quality facilities, consultation, and student employees’ assistance with all things multimedia.  Priority support is provided for academic course work. Consultants can often suggest the best methods and media to use for your projects, provide assistance with equipment and software, along with formatting and output (posters, photos, video, etc).\n\nThe MMC is not a ‘drop off’ service, but partners with students, faculty, and staff in support of their multimedia project work.\nIn cases where client demand outstrips MMC supply, Academic work is first priority.  Of course we will do our best to help everyone, on a first-come-first-serve basis.\nThe MMC is not a Kinko’s/Fedex-type service location.  Highest client demand times are Monday – Friday, 8am – 5pm.  To avoid longer wait times and minimize stress levels on everyone’s part, please utilize the MMC during lower use times (evenings and weekends).\nPlease PLAN AHEAD and ALLOW PLENTY OF LEAD TIME!  Time to complete project(s) may require hours, if not days, depending on overall demand, status of hardware, time of year (ie Spring qtr can be off-the-charts high demand time due to Symposium, increased number of class multimedia and poster projects).\nAssistance is provided at the MMC area only since student employees need to be available when clients request help at this location.\nThe MMC is for general student/faculty use and cannot be reserved in advance for individuals, larger groups, or classes.\nThe MMC provides services for “currently enrolled” EWU students, “currently employed” faculty, and “currently employed” staff only.  MMC services are intended for, and in direct support of, EWU academic work.  Costs are kept as low as possible for EWU clients, which means the MMC cannot be used as a cost savings printing option for non-EWU businesses, non-profits, etc.\nMMC consultants work in a helper role assisting clients based on varied student employee skill-sets.  Varied skill-sets are defined as:  Some MMC employees have more experience with multimedia, some have less, and some know very little but are in learning mode.  In other words, your mileage will vary depending on which MMC student employees are working at any given time.\nFull-service training (i.e. prepared information and/or materials and/or presentations for an audience of clients) is not provided by the MMC consultants.\nThe MMC does not store posters for later pick-up, so allow plenty of time to prepare, print, roll/protect, and take.  The MMC has lots of rubber bands, along with plastic rolls during nasty weather conditions (more than a few as of late).\nThe MMC does not provide lamination services.  Lamination services are provided by University Graphics which is located on the 2nd floor of HUS (Huston) Hall.\nPayment must be received ahead of time, prior to poster(s) printing.\nAssistance with video projects:\nThe MMC partners with students, faculty, and staff for printing, multimedia services, and other specialized needs such as video projects.  The MMC is not a ‘drop off’ service, but facilitates / works with clients in support of their multimedia project work.\n\nAn example of what’s needed for a video project includes:\n\nA Project Lead (aka Point Person) identified and confirmed to manage the project.\nThe Project Lead gathers details for the video project including:\nSpecific scheduling details for video shooting and completion of project.\nHow each person involved in the project will be compensated:  Hourly rate, expectation to donate time with verbal/written/other kudos, project tied to a class, learning experience, Starbucks gift card or other one time item(s), ???\nMeeting with the person/people requesting the video to understand what’s needed (overall goal / storyline, type of shots, how the final video needs to be distributed such as DVD, web page, ???).\nIdentifying and confirming each of the following people (could be one person, or many)\nThe Project Lead gathers resources.  Note that one, or many, people may fill each of these roles:\nProducer/Project Lead:   Ultimate responsibility to make it happen… oversee the process, quality control, makes sure everything goes as planned, etc.\nDirector:  In charge of actual video shooting, angles, lighting, story boarding, explaining how and what… basically incorporating whatever the Producer/Project Lead wants into the actual video shots.\nVideographer:  Checks out and sets up/tears down needed equipment, schedules times and places for video shots, shoots the actual video in partnership with the Director.\nVideo Editor:  Takes the raw video and edits it according to the needs of the Producer/Project Lead and of ultimately the original requester.  Effective communication is needed here if more than one person is involved.  Otherwise the final video may not meet the requester’s expectations.\nDuring any part of the process, the requester, Producer/Project Lead, Director, Videographer, and/or Video Editor can work with the MMC to help facilitate, such as importing, editing, and finalizing the video.\nThe MMC consultants work in a helper role, assisting the Producer, Director, Videographer, and/or Video Editor with the project, based on varied student employee skill-sets.\nVaried skill-sets are defined as:  Some MMC employees have more experience with video projects, some have less, and some know very little about video and are in learning mode.  In other words, your mileage will vary depending on which MMC student employees are working at any given time.  This holds true for other requests for help as well (poster printing, advanced color laser/photo and black/white laser printing, Adobe Master Collection and other multimedia applications support, etc)."
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "30694FA5-2B48-4D9D-81FA-89EEC16A787F",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1ED1B7FC-F8E9-4BB9-8760-2C67A51CD31E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1E4DBD68-0689-4E5D-9A2A-FEA3E5C442CA",
+    "height": 1181,
+    "width": 1018,
+    "x": 211,
+    "y": 1140
+  },
+  "glyphBounds": "{{0, 5}, {1016, 1164}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Welcome to the MMC!",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3A9CDF9D-DC2D-4EC0-B553-F7A8DE6D45F8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "D8416911-212C-4F5F-94F0-CB472247D75A",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Helvetica-Bold",
+            "size": 24
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2
+}

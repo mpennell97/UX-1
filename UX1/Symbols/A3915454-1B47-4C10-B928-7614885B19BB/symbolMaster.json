@@ -1,0 +1,113 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 2543,
+  "clippingMaskMode": 0,
+  "do_objectID": "A3915454-1B47-4C10-B928-7614885B19BB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 311,
+    "width": 1440,
+    "x": 1641,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "0343D724-BA4A-4C91-AC18-4EEDA23BFE9B"
+    },
+    {
+      "class": "text",
+      "id": "86211A05-4D2B-4166-8D1D-0788158D0C1A"
+    },
+    {
+      "class": "group",
+      "id": "EB7503EF-2375-4706-8918-6B63C8A920C7"
+    },
+    {
+      "class": "shapePath",
+      "id": "3559C1D0-526B-4FC6-AE82-AC50D9355D55"
+    },
+    {
+      "class": "text",
+      "id": "C0EC6D5E-2065-48CB-AE9B-5B79D44C4CC1"
+    },
+    {
+      "class": "shapePath",
+      "id": "4CE7A05C-B175-4A62-A0ED-A9943A87656B"
+    },
+    {
+      "class": "shapePath",
+      "id": "60EBF3E1-85C9-4AB5-B67F-6AE93BA66090"
+    },
+    {
+      "class": "text",
+      "id": "AE8DF400-DEDE-4D55-AC16-76F82B3C1068"
+    },
+    {
+      "class": "text",
+      "id": "ACCE3500-6A28-4BAD-8F6D-53C176B7F0A5"
+    },
+    {
+      "class": "text",
+      "id": "EF7B1E52-AA95-4EAA-BDD1-7D8C8BBF418C"
+    }
+  ],
+  "name": "Footer",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4FBED901-325E-425C-9DF6-0B6FD4792024",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
