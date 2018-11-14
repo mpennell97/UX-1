@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FCF4844F-B5CC-4048-A737-179FEFD9BB1A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "394E5B07-B42A-4B27-B695-A72F8DE26F0B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "25C3EF1B-D670-4BC1-A87C-98F6D30BF563",
+    "height": 98,
+    "width": 376,
+    "x": 90,
+    "y": 3808
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "H1 Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8CD88B15-B7D7-4CA3-8960-8BB558217128",
+      "overrideName": "448B29B1-F7D2-40DF-B11E-A2AFC375C11F_stringValue",
+      "value": "Art Building"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1236C09F-885F-48E6-B30A-23FC0BBD258B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "46D518FC-9AFA-4471-983F-ACF97CE84B5A",
+  "verticalSpacing": 0
+}

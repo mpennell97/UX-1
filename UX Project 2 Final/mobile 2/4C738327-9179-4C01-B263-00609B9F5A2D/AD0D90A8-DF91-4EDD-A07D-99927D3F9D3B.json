@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AD0D90A8-DF91-4EDD-A07D-99927D3F9D3B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7FAF36EA-B4C8-4C1C-B813-76D390373B3F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "660D055E-2B99-4A4B-A731-5E2E4C9462B0",
+    "height": 50,
+    "width": 166,
+    "x": 132,
+    "y": 320.2513630055512
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "H1 Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "01CD0E64-2A77-4CB3-B833-C7F5F06B67BB",
+      "overrideName": "856482F6-F897-43D0-9E6D-FC48C26037FD_stringValue",
+      "value": "P. Colin Manikoth"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3495D554-B760-4054-B54D-6F5A48E8770E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DE4A9EA3-AECB-46D0-A53F-FE909CA2BEFF",
+  "verticalSpacing": 0
+}

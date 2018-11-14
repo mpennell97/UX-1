@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A06452D7-6406-4FA9-984D-6B21BFE1D5F4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CD61367A-B3EE-4D5B-B144-D7DF8EB63543",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "83BF8A88-BF28-4589-B357-D6978A291FFA",
+    "height": 150,
+    "width": 1440,
+    "x": 0,
+    "y": 864
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Picture Title",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EEA78981-B893-4CF8-AFB1-8B8F755DC9D6",
+      "overrideName": "690C7F26-DD6F-4BB2-BF8E-B9FF6CD6CED9_stringValue",
+      "value": "MMC"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "49A974B9-24C7-4A4B-A510-5651EF3E23E1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9BC1F914-EB58-446C-A13B-EBDF2B76A8B9",
+  "verticalSpacing": 0
+}

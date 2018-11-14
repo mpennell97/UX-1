@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "201D1E57-E563-4A29-8D39-77FFA768786F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EB726900-2C6C-4CFC-910C-5FD12C8FC949",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "47811A13-E902-43F3-84BC-DB78E3133DC9",
+    "height": 12,
+    "width": 37,
+    "x": 131,
+    "y": 402
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "mobile box description copy 10",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "96736F89-5A2C-4CCB-A370-F8A7E9C9D476",
+      "overrideName": "69CA5861-ECFE-4CB1-897B-ECE657F08EBE_stringValue",
+      "value": "Travis"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DDC6A23B-B040-462E-9D94-31C11B33E815",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "83C34B6B-41D9-4449-93C5-255E95E63AE9",
+  "verticalSpacing": 0
+}

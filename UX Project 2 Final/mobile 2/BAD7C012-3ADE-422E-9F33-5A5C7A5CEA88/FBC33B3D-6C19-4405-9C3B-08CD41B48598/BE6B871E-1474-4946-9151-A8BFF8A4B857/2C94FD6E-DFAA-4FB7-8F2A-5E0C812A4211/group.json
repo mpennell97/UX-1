@@ -1,0 +1,107 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2C94FD6E-DFAA-4FB7-8F2A-5E0C812A4211",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F5198A60-3D93-458B-AAB2-607EC24518C6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EB6FA67D-691D-4610-AD2A-21C0102581F9",
+    "height": 7,
+    "width": 70,
+    "x": 0,
+    "y": 23.8552631578947
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "12C5255E-1EFF-45EB-A111-8FEC7B339A20"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8F699FDC-7330-4182-891B-FD8110CA206A"
+    },
+    {
+      "class": "shapePath",
+      "id": "CB0FA2DC-63D4-4815-BEBA-56711686349C"
+    },
+    {
+      "class": "shapePath",
+      "id": "508FC1D0-AB7B-4E3F-81E2-16AC0BC7191E"
+    },
+    {
+      "class": "shapePath",
+      "id": "7D37B092-DCD2-4991-9C9A-100A0E92EE64"
+    },
+    {
+      "class": "shapePath",
+      "id": "ED9CB822-C0F3-4DD9-8562-84BC097FF30B"
+    },
+    {
+      "class": "shapePath",
+      "id": "1EC0DAA8-7602-4CD8-8DB4-A53BD3CB11F6"
+    },
+    {
+      "class": "shapePath",
+      "id": "A0AFE7A7-525D-4189-9806-6C76F9D97285"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BC3BD9F8-DB54-43F0-ABA8-DBCCED996B0B"
+    },
+    {
+      "class": "shapePath",
+      "id": "37C5A6A7-D52A-4E23-B75E-9A8C6234A160"
+    }
+  ],
+  "name": "washington",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A339B0C1-6FEA-40C9-9EC3-CB140BC32753",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

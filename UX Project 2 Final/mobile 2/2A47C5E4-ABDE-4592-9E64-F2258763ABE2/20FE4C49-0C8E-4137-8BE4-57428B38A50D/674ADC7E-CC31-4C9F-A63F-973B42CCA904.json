@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "674ADC7E-CC31-4C9F-A63F-973B42CCA904",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7AB12A08-6260-4054-A9D1-1D426B5C6D3B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CA8229C9-3928-46C7-942D-8EC730BC9ABD",
+    "height": 12,
+    "width": 37,
+    "x": 0,
+    "y": 467
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "mobile box description copy 12",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F0215723-592A-4AF4-BFDF-752FAD06886D",
+      "overrideName": "69CA5861-ECFE-4CB1-897B-ECE657F08EBE_stringValue",
+      "value": "Mindy"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6CAE2F32-CEF0-4EB2-B88D-207E1F2392EF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "83C34B6B-41D9-4449-93C5-255E95E63AE9",
+  "verticalSpacing": 0
+}

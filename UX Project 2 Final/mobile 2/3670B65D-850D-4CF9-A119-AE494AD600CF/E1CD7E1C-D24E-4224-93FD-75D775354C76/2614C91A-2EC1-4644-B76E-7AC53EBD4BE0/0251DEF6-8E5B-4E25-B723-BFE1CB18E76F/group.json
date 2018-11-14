@@ -1,0 +1,107 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0251DEF6-8E5B-4E25-B723-BFE1CB18E76F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F899A168-8EF8-457F-AE40-8F158B47B882",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7DA33996-1DB2-4309-8821-C50A9C016F27",
+    "height": 7,
+    "width": 66,
+    "x": 72.19512195121922,
+    "y": 24.34210526315785
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "A30E6D01-8877-4847-81FE-3D08745B178B"
+    },
+    {
+      "class": "shapePath",
+      "id": "A79A4210-C7AD-4E04-9D6A-77289873ADD6"
+    },
+    {
+      "class": "shapePath",
+      "id": "7AAE15A0-2514-4884-A04C-C250D345CFCA"
+    },
+    {
+      "class": "shapePath",
+      "id": "5E35B378-D51B-4133-81EE-A54990825196"
+    },
+    {
+      "class": "shapePath",
+      "id": "8FBCF10B-5172-42F4-A307-C57AB8C76E8D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6F36D88B-B557-491D-B55E-1C484EBB701F"
+    },
+    {
+      "class": "shapePath",
+      "id": "B7D56137-1FBA-438D-9394-4B95D479FA7B"
+    },
+    {
+      "class": "shapePath",
+      "id": "1B5D7C26-76ED-4722-BCD5-848E460178FA"
+    },
+    {
+      "class": "shapePath",
+      "id": "A8924316-1E9E-4311-9D34-A0098B18D803"
+    },
+    {
+      "class": "shapePath",
+      "id": "2B7EC929-4839-4F64-803D-24EE4FB674FB"
+    }
+  ],
+  "name": "university",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "16A8DCDE-9508-4919-8875-A92ECC5C4AB1",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

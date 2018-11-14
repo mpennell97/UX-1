@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "630D3D71-1733-4C22-9C6B-B33B57B087F7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "561FC1E1-C153-43B7-B0CE-07BB1F83C2EA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3DF473D4-828C-4DA7-9712-D77FCD693F8B",
+    "height": 50,
+    "width": 154,
+    "x": 138,
+    "y": 191.1256815027756
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "H1",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "01CD0E64-2A77-4CB3-B833-C7F5F06B67BB",
+      "overrideName": "856482F6-F897-43D0-9E6D-FC48C26037FD_stringValue",
+      "value": "Tyreil            Poosri"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A2AD00DB-5D49-42A7-BE8F-9E4C4B53C0E3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DE4A9EA3-AECB-46D0-A53F-FE909CA2BEFF",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8CFA19E5-7757-49F1-B1BE-7B154EDA8F01",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6685CA53-7F31-48E0-B2EB-FDC1C28786C5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "32A3ECEC-EB2E-43B8-8E93-3C309191BFF2",
+    "height": 85,
+    "width": 85,
+    "x": 0,
+    "y": 252
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "569B090A-D1B5-48A6-94A8-2984A7C0CA1D"
+    },
+    {
+      "class": "bitmap",
+      "id": "CDC9D285-1425-48B7-9815-B747493953E4"
+    }
+  ],
+  "name": "masingaleTravis_LUC_profilePic_web",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2317D767-251C-4076-915F-974FDB4FC8B6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

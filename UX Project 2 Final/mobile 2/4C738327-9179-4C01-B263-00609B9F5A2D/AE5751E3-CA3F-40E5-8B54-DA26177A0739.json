@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AE5751E3-CA3F-40E5-8B54-DA26177A0739",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "13C3ED79-E78A-49B8-A73F-835D9D86A0E3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7EC65DE9-5AC8-43F3-A84E-A838423CA768",
+    "height": 50,
+    "width": 166,
+    "x": 136,
+    "y": 819
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "H1 Copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "01CD0E64-2A77-4CB3-B833-C7F5F06B67BB",
+      "overrideName": "856482F6-F897-43D0-9E6D-FC48C26037FD_stringValue",
+      "value": "James Braukmann"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "65D04417-62B1-40EC-8085-DBC517609922",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DE4A9EA3-AECB-46D0-A53F-FE909CA2BEFF",
+  "verticalSpacing": 0
+}

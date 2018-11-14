@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9F7119E8-FD88-4FF7-AAC3-7134091EE051",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "06527C8C-664A-4398-A0B7-06FD8E42C176",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "33AB059E-B7B2-4820-886D-E0A2E1F33D65",
+    "height": 572,
+    "width": 387,
+    "x": 139,
+    "y": 1128
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Staff Card Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BA13C701-4A6E-4D01-B281-6239246459EC",
+      "overrideName": "69982988-4CCF-4F31-BBF5-9689882AC7F7_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/e49675b432d5a52caca8cc5197c522f71516b990.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F6F5B46C-532F-4B80-8064-095D774754AF",
+      "overrideName": "676D57EC-1EE2-4BEF-A19A-C912E2338F6D_stringValue",
+      "value": "Ginelle Hustrulid"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A34755E8-83F4-405D-8D80-F655E6B2EA73",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7E6C0768-E05F-4575-BC8E-B8A1FD6A6666",
+  "verticalSpacing": 0
+}

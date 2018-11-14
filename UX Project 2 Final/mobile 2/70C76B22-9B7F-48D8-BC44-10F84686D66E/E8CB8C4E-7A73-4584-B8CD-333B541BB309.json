@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E8CB8C4E-7A73-4584-B8CD-333B541BB309",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F37A0842-7BB3-47D1-B575-75385AA7F72A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "85E87BB7-DAC1-4380-AC84-F8FB28B9B475",
+    "height": 50,
+    "width": 154,
+    "x": 138,
+    "y": 650.8743184972244
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "H1 Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "01CD0E64-2A77-4CB3-B833-C7F5F06B67BB",
+      "overrideName": "856482F6-F897-43D0-9E6D-FC48C26037FD_stringValue",
+      "value": "Mindy \nBreen"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5F94D1D4-7ADB-49DD-86B1-012D0589B3F6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DE4A9EA3-AECB-46D0-A53F-FE909CA2BEFF",
+  "verticalSpacing": 0
+}

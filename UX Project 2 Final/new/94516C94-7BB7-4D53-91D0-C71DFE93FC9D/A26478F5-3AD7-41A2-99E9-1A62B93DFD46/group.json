@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A26478F5-3AD7-41A2-99E9-1A62B93DFD46",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "91DE7237-5823-4AFF-B661-66F51BE39A6D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3C4DC3DA-11F3-4CFC-B08B-B9387E346FBF",
+    "height": 370,
+    "width": 608,
+    "x": 742,
+    "y": 1603
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "2C0254A5-26AD-4DC7-987B-F0CC8A8B96F2"
+    },
+    {
+      "class": "bitmap",
+      "id": "E0492099-7912-4A51-AB5D-172A2C14FA44"
+    }
+  ],
+  "name": "Graphic-Design-02",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C2CE74C1-EF84-4450-A643-CBD5AF8B7549",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

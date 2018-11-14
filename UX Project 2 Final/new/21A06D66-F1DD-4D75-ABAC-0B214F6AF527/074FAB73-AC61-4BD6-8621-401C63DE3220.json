@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "074FAB73-AC61-4BD6-8621-401C63DE3220",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "129677CB-CA5E-4BDB-8DE5-3FDCE22FF226",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A9A26E25-800F-4201-AE79-4D4AD54C5D92",
+    "height": 98,
+    "width": 376,
+    "x": 90,
+    "y": 1030
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "H1",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "18EEFC1B-6275-4DD6-A0C5-98E8B4DC9789",
+      "overrideName": "448B29B1-F7D2-40DF-B11E-A2AFC375C11F_stringValue",
+      "value": "JFK Library"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A301A42A-A9DD-4CA6-82A5-92AE392CE42E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "46D518FC-9AFA-4471-983F-ACF97CE84B5A",
+  "verticalSpacing": 0
+}

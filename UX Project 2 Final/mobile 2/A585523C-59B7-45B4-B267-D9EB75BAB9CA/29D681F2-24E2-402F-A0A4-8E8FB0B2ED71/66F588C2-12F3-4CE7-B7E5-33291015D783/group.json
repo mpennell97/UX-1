@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "66F588C2-12F3-4CE7-B7E5-33291015D783",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1D497B56-DC0B-44D8-A851-78FE1CCFC58C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "793DE417-B881-42CE-9BC9-9912D8AF29E8",
+    "height": 85,
+    "width": 85,
+    "x": 0,
+    "y": 126
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "A541BBEF-E918-4790-9B75-6BDA2AA122CC"
+    },
+    {
+      "class": "bitmap",
+      "id": "6984B26B-7E7A-47B5-BD27-4E32D1E47CBD"
+    }
+  ],
+  "name": "ManikothC_05a",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2AB0BF94-12BF-47F5-B847-901F5A7548C7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

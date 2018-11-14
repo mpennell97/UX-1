@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D57D95C1-BE26-448F-93FC-7132DAEF9C06",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 572,
+    "width": 387,
+    "x": 139,
+    "y": 556
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Staff Card",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "87BB04BD-7C08-49DB-A24E-9144B7D4E17A",
+      "overrideName": "69982988-4CCF-4F31-BBF5-9689882AC7F7_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/9f148a9e1b3f50cf0c252d2b925f97c19f48dbd4.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6CF04B19-6F33-4ACF-80ED-D59B47F91E65",
+      "overrideName": "676D57EC-1EE2-4BEF-A19A-C912E2338F6D_stringValue",
+      "value": "James Braukmann"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7E6C0768-E05F-4575-BC8E-B8A1FD6A6666",
+  "verticalSpacing": 0
+}

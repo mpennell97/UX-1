@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "96B561B2-6734-4A82-A323-89EB48E63AFC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "550CBA9B-DCDF-469A-9F84-983345FA13F8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8CCDCC1C-3359-42CF-8860-7F8A7FF985B5",
+    "height": 12,
+    "width": 37,
+    "x": 0,
+    "y": 271
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "mobile box description copy 16",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C423FD61-7E62-4654-8F8B-BD5711A7A121",
+      "overrideName": "69CA5861-ECFE-4CB1-897B-ECE657F08EBE_stringValue",
+      "value": "MMC"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5E03C825-6344-42FF-92A6-32C5EC0D0A46",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "83C34B6B-41D9-4449-93C5-255E95E63AE9",
+  "verticalSpacing": 0
+}

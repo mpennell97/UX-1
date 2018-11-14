@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F8A21D16-0B00-40A9-913F-5B4541A9BC62",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1AFA6092-B4D5-4C67-B2C9-303663D604E6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EB2724F3-120E-4D9E-A59F-EFD59E3D1E6B",
+    "height": 370,
+    "width": 608,
+    "x": 88,
+    "y": 2065
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "ECCD5AB3-CB36-4128-9C45-6293CBBAA318"
+    },
+    {
+      "class": "bitmap",
+      "id": "8FD78BB4-F9A9-40C7-8290-5C1E67ABB3F4"
+    }
+  ],
+  "name": "art design",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6EF4DE95-047A-4487-BD15-D0C7081C6088",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

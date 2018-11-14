@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "03B69AA9-3960-4A79-A152-52A95E59BADF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8CE8763D-AD4E-4358-B163-D61BCEFC87C9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C9DB1C4E-B9E2-4D31-A442-DEC39C6240CF",
+    "height": 665,
+    "width": 1260,
+    "x": 90,
+    "y": 4844
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "058D3C27-F4E2-4D63-8FF3-0A27873A019B"
+    },
+    {
+      "class": "bitmap",
+      "id": "6F7992FA-6A8C-43E3-9035-D88B80F3EC6E"
+    }
+  ],
+  "name": "EWU-CEB-537x357-537x300",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1BEF19BD-CA9B-48E9-B920-10132937BE66",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 1,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "A3F97E30-3D97-442E-9D50-89C7977F2ADF",
+      "transition": 0
+    }
+  }
+}

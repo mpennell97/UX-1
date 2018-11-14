@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CD3CE046-6865-499D-A2E6-DB7C3D7D70C4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4AFC47FC-0B25-423B-B6BD-C4F41872B276",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B707F456-363F-4854-8982-C0449E7E02C9",
+    "height": 150,
+    "width": 1440,
+    "x": 0,
+    "y": 864
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "chevron",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "08101982-2B0B-4CE6-8B46-F090FB3C4015",
+      "overrideName": "2DCD264E-52D2-461F-8D27-1CA1627EAA5E_stringValue",
+      "value": "Start Designing"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "595F0769-4A00-4A1A-8B02-031F9754DF8B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2F8274F1-3A4D-4F2A-AF83-374A7EB85CD3",
+  "verticalSpacing": 0
+}

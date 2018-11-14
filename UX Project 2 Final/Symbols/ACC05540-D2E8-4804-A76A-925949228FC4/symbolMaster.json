@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "EE0DD6CC-0F0D-4E36-A6DA-060C0088F6AC",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 705,
+  "clippingMaskMode": 0,
+  "do_objectID": "ACC05540-D2E8-4804-A76A-925949228FC4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "468D261D-EEEC-4121-8D2B-9D0AE40C15E5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "92447A1D-B91F-4B13-9320-4CA3BE056AB0",
+    "height": 119,
+    "width": 467,
+    "x": 13411,
+    "y": -59
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "847C45BC-191D-4EB3-9456-18FC5A616496",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "856482F6-F897-43D0-9E6D-FC48C26037FD"
+    }
+  ],
+  "name": "burger head",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9AF7E22A-E819-4ED8-A25D-4B116ED21C8F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DE4A9EA3-AECB-46D0-A53F-FE909CA2BEFF",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3CAFCE0E-D02A-48CE-9C9F-1C5FAB0FDF43",
+    "guides": [
+    ]
+  }
+}

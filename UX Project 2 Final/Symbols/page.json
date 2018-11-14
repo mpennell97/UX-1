@@ -1,0 +1,196 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0C325C94-748D-425A-8502-26B65630EE4F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 134,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolMaster",
+      "id": "5F72F6F8-7FC6-42EA-97C8-EFE9DB9F3385"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "A3915454-1B47-4C10-B928-7614885B19BB"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "AD8E0893-BD3B-4972-9051-4592643D36E9"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "52F3C971-46A4-4CAC-BD1B-145455DDCC4C"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "91C10345-AD76-4612-BDA9-DDEDE2F11BF6"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "7A852D73-4839-4A06-8627-943480AF353A"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "412F2B76-AC2B-4766-84C1-727DD7C25F7F"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "A58B7329-F3E2-4754-BA1B-F10D26A4386D"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "581C98FD-3B46-49A4-BA1E-743E2388D879"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "1BF9F61B-FF2D-449D-86B7-69B287C6C193"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "E9D86128-9910-41ED-B20B-4340F1D87BA1"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "BDF48F09-59A5-4D58-BC2C-AE627969ACDA"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "D8610048-DB5A-4C67-9913-393D920D5BED"
+    },
+    {
+      "class": "group",
+      "id": "C8970AD6-4F16-4E6D-A7FA-25D65CA8BEC6"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "2B934E6E-C881-414D-847B-D3D1218224D0"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "BB982349-E8A1-4A85-BAA4-EF118F85DDC6"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "75200A98-7EDB-4D9F-BBE2-D900A50FFE25"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "9A44AE2C-0874-44EF-A033-4AE4B56C1C95"
+    },
+    {
+      "class": "group",
+      "id": "FBED46A5-B163-4694-BF7E-18B757D82DBE"
+    },
+    {
+      "class": "rectangle",
+      "id": "4D1D2598-D780-48D4-94E1-CF2424DC73E2"
+    },
+    {
+      "class": "group",
+      "id": "600DF949-6373-43CD-AE99-152CBC25C46F"
+    },
+    {
+      "class": "shapePath",
+      "id": "5EE5166F-6DA9-40CE-BF04-B9E7D677FB11"
+    },
+    {
+      "class": "shapePath",
+      "id": "DB4D5B51-4F9E-4654-8D42-75793E76DA9F"
+    },
+    {
+      "class": "rectangle",
+      "id": "3A165AC0-127B-4275-9872-80B989942816"
+    },
+    {
+      "class": "bitmap",
+      "id": "4732BE34-CEB5-43AF-B070-20E7DAF51149"
+    },
+    {
+      "class": "text",
+      "id": "652DCA91-035E-459F-A3CC-C6B2ADFBF79B"
+    },
+    {
+      "class": "text",
+      "id": "7810A8E9-24AA-4AAE-95D1-CF0B2DD9D571"
+    },
+    {
+      "class": "text",
+      "id": "A70C38CD-2ED8-4679-BA2B-B1FCCFCBDD1F"
+    },
+    {
+      "class": "text",
+      "id": "228BB016-6FAC-4ACD-A243-F9A2A19FCD35"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B455DC79-C0F3-40D1-A9CB-2E805A2D0D6B"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "1E8BDB28-2863-4469-82BB-F9032D2511A7"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "ACC05540-D2E8-4804-A76A-925949228FC4"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "92C7105D-2018-4C01-B61F-AEAB995B183A"
+    }
+  ],
+  "name": "Symbols",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.invision.prototype": {
+      "lastUsedGestureID": 0
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -433,
+    "guides": [
+    ]
+  }
+}

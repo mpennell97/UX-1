@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5008B612-A6D0-4257-8C50-9DA6ACBB6335",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8377E595-B21D-40E3-80F3-9818A657C3D1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E59C7EE2-5262-4E10-A8ED-0A66E68FA775",
+    "height": 630,
+    "width": 420,
+    "x": 0,
+    "y": -5
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "8CBCEA00-D59D-45F6-9BAC-71861E652331"
+    }
+  ],
+  "name": "Photo Feb 27, 5 09 20 PM",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "93C0741B-4A52-40AD-AAC0-DE46E8559F16",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

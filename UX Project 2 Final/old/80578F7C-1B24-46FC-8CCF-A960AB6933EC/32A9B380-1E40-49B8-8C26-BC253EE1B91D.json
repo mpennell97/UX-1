@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "32A9B380-1E40-49B8-8C26-BC253EE1B91D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "182A56E6-AD21-46FD-881A-DCD5BCE16A12",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5C502407-2490-438B-9712-6FBDA3CD8A66",
+    "height": 84,
+    "width": 355,
+    "x": 375,
+    "y": 3715
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "H1 Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B9D47127-D10C-4C63-BF91-FB78E6ADDA21",
+      "overrideName": "FF192D2A-6273-45F9-893B-A6B889E5DDF7_stringValue",
+      "value": "Custom Ink"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B00DE35B-E1D3-48A0-9A9D-080CC7C46AA4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D6A17A32-06C0-42C1-9E45-C634B6011971",
+  "verticalSpacing": 0
+}

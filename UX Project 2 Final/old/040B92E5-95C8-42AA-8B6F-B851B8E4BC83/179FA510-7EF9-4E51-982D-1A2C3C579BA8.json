@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "179FA510-7EF9-4E51-982D-1A2C3C579BA8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D3EE46E1-8415-4E36-9364-1847227E2392",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "337A1008-F10D-4E97-BA81-5AC0C80021F4",
+    "height": 98,
+    "width": 900,
+    "x": 90,
+    "y": 1956
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "H1 Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C5713335-76DC-4B2B-A8DA-05E7F0A55A92",
+      "overrideName": "FF192D2A-6273-45F9-893B-A6B889E5DDF7_stringValue",
+      "value": "MMC (Multimedia Commons)"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FD67A032-913C-4D76-BB3D-7C2B06F876D8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D6A17A32-06C0-42C1-9E45-C634B6011971",
+  "verticalSpacing": 0
+}

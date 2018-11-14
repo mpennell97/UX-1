@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A2A3144A-D26E-4930-9538-E11DD23150BB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BCDCB521-6BC7-4401-B13C-55601BF13A4C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3D0E7A3F-34D8-43DA-81DA-CAD6BA15B41D",
+    "height": 150,
+    "width": 1440,
+    "x": 0,
+    "y": 864
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Picture Title",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "61152D36-FDFE-4FA5-BEF1-0C659112FC70",
+      "overrideName": "690C7F26-DD6F-4BB2-BF8E-B9FF6CD6CED9_stringValue",
+      "value": "Alumni"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B3D9C5C2-4B67-4A86-9413-CA560A5AB1C6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9BC1F914-EB58-446C-A13B-EBDF2B76A8B9",
+  "verticalSpacing": 0
+}

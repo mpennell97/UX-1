@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E06E3A08-C748-4AEE-817A-66757EB2ED62",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8D0F07D3-88BD-47CD-AA10-30246FBF0D7A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "72775F6A-7265-4A24-8289-D9FBB36502ED",
+    "height": 150,
+    "width": 1440,
+    "x": 0,
+    "y": 864
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Picture Title",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C75DE785-DACC-4DF1-A43C-0D8DE28ECA69",
+      "overrideName": "690C7F26-DD6F-4BB2-BF8E-B9FF6CD6CED9_stringValue",
+      "value": "Program"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EA9D5D4C-E166-4BCE-AB86-C8E758BDDDF6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9BC1F914-EB58-446C-A13B-EBDF2B76A8B9",
+  "verticalSpacing": 0
+}

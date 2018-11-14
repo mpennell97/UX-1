@@ -1,0 +1,91 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "BACB886D-9E43-4E7E-B9C5-69B6862933D8",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 5727,
+  "clippingMaskMode": 0,
+  "do_objectID": "7A852D73-4839-4A06-8627-943480AF353A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "73BF875B-2B2E-4DD6-884D-8E96D7610752",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CCFE5846-CBF4-4596-9966-1C224EEEA1ED",
+    "height": 740,
+    "width": 404,
+    "x": 12340,
+    "y": -59
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0E59EE5E-3A9B-4307-B0B5-413C864C7776",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "55B65FBC-CC92-4A99-84B2-62680C4D93A9"
+    },
+    {
+      "class": "rectangle",
+      "id": "42DB2ED2-3373-4DDF-B945-E9CC412851BE"
+    },
+    {
+      "class": "text",
+      "id": "C492001E-9EA0-4D18-AD43-D5A80BF273D6"
+    }
+  ],
+  "name": "Staff Card2.0",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A7FD5234-56A9-44E5-B9A8-1EDEAE6ED69C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "33A34AE0-0D68-4492-BAD2-AAFEE50145AE",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "43A2FE6A-224C-410A-8DC6-11EC04C63464",
+    "guides": [
+    ]
+  }
+}

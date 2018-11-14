@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "515DCF28-4D76-4C3C-BC98-0AEDC94E22A7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5C941621-ED7B-4895-B628-95FF5066E1ED",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B29E0D5D-8121-42F5-ABE9-A18416E91284",
+    "height": 321,
+    "width": 1172,
+    "x": 179,
+    "y": 417.0000000000001
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "43CCFAB4-C9BB-4757-A3D7-87D6085AEDCB"
+    },
+    {
+      "class": "shapePath",
+      "id": "7534509F-FFB4-4ED6-AB70-D42B50CFD2AA"
+    },
+    {
+      "class": "shapePath",
+      "id": "9BEFA003-67FC-405B-821E-D0BA7F90F329"
+    },
+    {
+      "class": "shapePath",
+      "id": "A7B4388A-6E56-4A98-BE34-3A9378F62132"
+    },
+    {
+      "class": "shapePath",
+      "id": "CA445194-554F-4352-B42A-E9FC2FB444BF"
+    },
+    {
+      "class": "shapePath",
+      "id": "54B75620-C82A-4719-B540-A3BA26C419FD"
+    }
+  ],
+  "name": "Design logo Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A7A0E667-881E-4ECB-ABB7-6E44BBD9C11C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

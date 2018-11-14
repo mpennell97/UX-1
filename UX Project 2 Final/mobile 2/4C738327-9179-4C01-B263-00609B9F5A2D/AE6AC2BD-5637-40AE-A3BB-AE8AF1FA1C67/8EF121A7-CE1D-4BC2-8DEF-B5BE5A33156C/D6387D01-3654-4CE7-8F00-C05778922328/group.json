@@ -1,0 +1,107 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D6387D01-3654-4CE7-8F00-C05778922328",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4F5E7E2D-2D97-45C6-B0E8-5B25CD431B5E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "55CC61E2-830B-4BF7-BA67-9886454EE0E2",
+    "height": 7,
+    "width": 70,
+    "x": 0,
+    "y": 23.8552631578947
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "DFF50212-F0DD-46C6-97C3-19C10ED061EC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2FC97529-94F1-40F0-86BA-6CEC4DB6E42E"
+    },
+    {
+      "class": "shapePath",
+      "id": "8F9DE5A2-D4CE-4B72-B65F-6B2C23997334"
+    },
+    {
+      "class": "shapePath",
+      "id": "D082788A-733B-4497-9777-4FEF7884CBB8"
+    },
+    {
+      "class": "shapePath",
+      "id": "400335AA-A544-4EFE-8166-BE284F7318B1"
+    },
+    {
+      "class": "shapePath",
+      "id": "7708CE05-E8BC-4742-9004-2BE32C61393D"
+    },
+    {
+      "class": "shapePath",
+      "id": "739FFD4A-D52D-40FC-A29C-F2E7F59038B8"
+    },
+    {
+      "class": "shapePath",
+      "id": "D0AF0B15-E0AB-4876-A023-47E0DE753C89"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AB2B0365-F563-461C-857E-9C874837DA8A"
+    },
+    {
+      "class": "shapePath",
+      "id": "B85D105B-0281-49EC-A4A8-14347399A64C"
+    }
+  ],
+  "name": "washington",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6E838E04-EF72-4426-889C-392247A2CEF2",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

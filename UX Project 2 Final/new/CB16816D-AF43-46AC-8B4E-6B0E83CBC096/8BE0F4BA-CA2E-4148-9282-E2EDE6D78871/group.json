@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8BE0F4BA-CA2E-4148-9282-E2EDE6D78871",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4E21FBB2-A01E-424A-A785-97CF88915D61",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "85A79A5A-DEBA-41ED-95E3-7D79F9217E1F",
+    "height": 537,
+    "width": 420,
+    "x": 930,
+    "y": 970
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "6A56BEEF-69BF-44F5-BCC7-E7ED3C083AF9"
+    },
+    {
+      "class": "rectangle",
+      "id": "32CC9966-5D4F-407F-AED5-DD1B9FDC6236"
+    },
+    {
+      "class": "text",
+      "id": "CFA3E404-67C0-4764-88EC-E3AF308F12F6"
+    },
+    {
+      "class": "text",
+      "id": "B2C71D63-8E33-445B-B7B8-9B41E9D8B629"
+    }
+  ],
+  "name": "Mindy0133",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9FD751F9-2B6A-4790-95E3-06A42781CD89",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

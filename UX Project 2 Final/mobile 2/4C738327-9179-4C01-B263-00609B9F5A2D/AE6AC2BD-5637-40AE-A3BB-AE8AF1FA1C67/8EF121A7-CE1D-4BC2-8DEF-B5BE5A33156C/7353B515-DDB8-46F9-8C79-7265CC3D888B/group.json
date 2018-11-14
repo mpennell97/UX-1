@@ -1,0 +1,107 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7353B515-DDB8-46F9-8C79-7265CC3D888B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1926D121-60EC-4451-A332-325156C5F9DF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4737ABEA-02F4-486C-82A8-A097F628C1CF",
+    "height": 7,
+    "width": 66,
+    "x": 72.19512195121922,
+    "y": 24.34210526315785
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "3C40FF21-A458-49A2-91A8-A6A6118A3241"
+    },
+    {
+      "class": "shapePath",
+      "id": "0CAFB745-6081-48DF-A9B9-194B23283079"
+    },
+    {
+      "class": "shapePath",
+      "id": "DF210FE1-0CAF-41F1-AD91-1ABEBD4D3D9E"
+    },
+    {
+      "class": "shapePath",
+      "id": "7E9DCE6A-127E-41BB-A735-1FB0DC788302"
+    },
+    {
+      "class": "shapePath",
+      "id": "938B60AF-D6CA-4883-B997-6226DF475CF6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D85F1B10-D72D-4F34-A660-653208507FE3"
+    },
+    {
+      "class": "shapePath",
+      "id": "80479EDF-FCBE-4D01-B74D-DB664165C78B"
+    },
+    {
+      "class": "shapePath",
+      "id": "E0ABAA40-8541-4D06-BCAD-774FF9C48B67"
+    },
+    {
+      "class": "shapePath",
+      "id": "1F121A59-6C86-4AB3-AB30-2B134142D99F"
+    },
+    {
+      "class": "shapePath",
+      "id": "9FE529BB-1A0B-4C82-9D41-A6CC3589D6BA"
+    }
+  ],
+  "name": "university",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "092B3922-6C13-48C6-90CD-18F9E3F290A7",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

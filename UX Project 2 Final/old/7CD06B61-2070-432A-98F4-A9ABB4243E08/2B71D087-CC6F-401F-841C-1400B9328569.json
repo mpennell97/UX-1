@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2B71D087-CC6F-401F-841C-1400B9328569",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "91DA95F0-DB6B-4156-A8B6-B1AEE9C43B14",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B99EEB7C-4969-4DDF-A65C-42C4F68E45B3",
+    "height": 150,
+    "width": 1440,
+    "x": 0,
+    "y": 864
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Picture Title",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2B690C0B-7012-4C41-8DBA-E63CD36EFEB4",
+      "overrideName": "690C7F26-DD6F-4BB2-BF8E-B9FF6CD6CED9_stringValue",
+      "value": "User Experience"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DA1859F1-E713-4635-8EF4-1D8E98140F5E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9BC1F914-EB58-446C-A13B-EBDF2B76A8B9",
+  "verticalSpacing": 0
+}

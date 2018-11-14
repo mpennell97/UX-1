@@ -1,0 +1,107 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2FE30BAD-1BE5-4CA6-B9A2-D0284CD2D798",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "59A7891F-BBBC-4956-927F-5ACDDF2FEF23",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5F52C649-28FF-4A60-BF31-0DE191D53B31",
+    "height": 7,
+    "width": 70,
+    "x": 0,
+    "y": 23.8552631578947
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "C63BE0F8-0CE7-47E3-ADAE-B9FB8D099F41"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "25D7897D-091A-46E2-BB31-90487393F1CF"
+    },
+    {
+      "class": "shapePath",
+      "id": "FA14D8AF-BB17-4BD8-9AFA-A12905541675"
+    },
+    {
+      "class": "shapePath",
+      "id": "6095A88D-8070-4361-8C2B-EB545C922AE1"
+    },
+    {
+      "class": "shapePath",
+      "id": "EE884ABD-877F-4212-98C7-9B086F835C8F"
+    },
+    {
+      "class": "shapePath",
+      "id": "2638D3C3-0127-4717-A2C3-AA487595E5F5"
+    },
+    {
+      "class": "shapePath",
+      "id": "80C791DA-3606-450C-A5AD-D50B3A08DF89"
+    },
+    {
+      "class": "shapePath",
+      "id": "5F2114C8-291E-4B5F-9786-71563A1BD04A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5BFC4474-A55C-4081-A360-487501519377"
+    },
+    {
+      "class": "shapePath",
+      "id": "E29330BC-1ABA-4B3E-9AE5-D1E0E6BBC6F7"
+    }
+  ],
+  "name": "washington",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ED318234-2764-4598-92B5-B7312F3620DC",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

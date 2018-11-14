@@ -1,0 +1,107 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "85C9037C-1915-4451-92D8-7D7063FCDAE7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "98D1959C-0B68-4526-9B73-0FD24E3E8118",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "350CB9D7-3A3E-4A37-8AC7-C50F874492CD",
+    "height": 7,
+    "width": 66,
+    "x": 72.19512195121922,
+    "y": 24.34210526315785
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "D3A2760F-C52A-4988-AEA3-EC0C11BA500F"
+    },
+    {
+      "class": "shapePath",
+      "id": "E0F69FF2-93A1-442B-B59E-62BE50D70AE4"
+    },
+    {
+      "class": "shapePath",
+      "id": "82D36E41-5B59-40BD-AF35-D58573D1FD01"
+    },
+    {
+      "class": "shapePath",
+      "id": "616DBF51-5DDF-4CE1-B391-33FC655A1169"
+    },
+    {
+      "class": "shapePath",
+      "id": "0E705F4B-7230-4B3C-8C68-9754D202AF16"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FFB17121-1EA4-4236-AEEE-C287621CA771"
+    },
+    {
+      "class": "shapePath",
+      "id": "DA4E4E5C-8A4D-49A5-8247-D6AE448713E3"
+    },
+    {
+      "class": "shapePath",
+      "id": "DEF7A41E-C8EB-406F-B46A-B3BA21F4F7DB"
+    },
+    {
+      "class": "shapePath",
+      "id": "08921F4D-A237-4172-9408-713378454C5A"
+    },
+    {
+      "class": "shapePath",
+      "id": "3B8A7F08-F759-4BFE-A82B-8CF5A4DEC5A9"
+    }
+  ],
+  "name": "university",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "33F2A361-CD8A-4AEC-B775-EEDD997A45FB",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

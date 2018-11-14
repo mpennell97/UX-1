@@ -1,0 +1,172 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0,
+    "do_objectID": "C113AF89-3336-413E-94ED-DFEA4FCFD0EC",
+    "green": 0,
+    "red": 0
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D0509524-529A-4732-9924-692FF32A9070",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3D846489-2DA3-4EC5-A75D-FCE8E0183DE1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DAB1815C-D374-43CF-BBA4-711D76595274",
+    "height": 4010,
+    "width": 1440,
+    "x": 6980,
+    "y": 7927
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9EDA5D72-8F52-4178-A85A-BAE82666967C",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "456B3E47-F6D4-449D-ADCF-29B7B1FF9206"
+    },
+    {
+      "class": "group",
+      "id": "E56E2343-A4AC-4899-93D0-4163120AC0B4"
+    },
+    {
+      "class": "group",
+      "id": "C8BE0ABB-CDC8-43D7-979D-5FD40CC2CA8C"
+    },
+    {
+      "class": "group",
+      "id": "29EC4B8F-3D2C-4370-B928-A4D46E401233"
+    },
+    {
+      "class": "group",
+      "id": "289CF478-7858-43BB-9047-1329CFCF623E"
+    },
+    {
+      "class": "group",
+      "id": "47B594DA-86D8-42FB-A4B1-A2338532E03E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C8F61BB9-736D-4543-BECA-E46EFBB17B77"
+    },
+    {
+      "class": "group",
+      "id": "C06B0718-6C43-4CC6-B7DF-6BF991B7CE1E"
+    },
+    {
+      "class": "group",
+      "id": "D60E3BE0-813D-4446-9FD7-6E2CB9C8CE4D"
+    },
+    {
+      "class": "group",
+      "id": "D7B43358-E049-47F7-B097-6D8D3BCCDA69"
+    },
+    {
+      "class": "group",
+      "id": "10161D2F-3983-4127-9C79-51D94737B53A"
+    },
+    {
+      "class": "rectangle",
+      "id": "0AE3AC92-A3D8-4CBE-8486-11E770FE21E9"
+    },
+    {
+      "class": "group",
+      "id": "FC65E36B-8DBD-4883-9538-B8B8EA616FD6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "074CBEAF-C761-45F5-9EA7-FCAB750A5357"
+    },
+    {
+      "class": "group",
+      "id": "EB34C341-34C4-4F49-A623-8CD657CAD7F3"
+    },
+    {
+      "class": "rectangle",
+      "id": "57FC3AD1-49C4-44E6-9B73-4C9C6C6D223A"
+    },
+    {
+      "class": "text",
+      "id": "402B8A12-1366-4CD4-AB48-7FB4D8D8F1AB"
+    },
+    {
+      "class": "text",
+      "id": "29244DE6-0632-47AD-9D85-EBB7D95AE3C9"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "do_objectID": "C9E540A7-303D-4124-BA00-5852051D8589",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 60,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1440
+  },
+  "name": "Showcase2",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AC178831-3F90-4FF0-A698-2403EF2B429E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3F1EE0EC-6079-4CD9-8EA9-61364E59C9E9",
+    "guides": [
+      192
+    ]
+  }
+}

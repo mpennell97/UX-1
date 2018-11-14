@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "72125BD5-2204-4CDB-8E40-F711BFF9B49B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "85270E3B-5B9D-4E60-9E13-7963820E07EE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "65DADBB0-4175-4E4A-B974-E50D838B54F5",
+    "height": 100,
+    "width": 1260,
+    "x": 90,
+    "y": 2801
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "chevron copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ECC020B9-9B2E-45A3-BCEC-1CC675A46DBA",
+      "overrideName": "60A4607F-1EDB-44B9-A2DD-A3C56AFB179E_stringValue",
+      "value": "Logo"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "73D587E8-8FD7-4034-AB8B-F0E4619C44EE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1270CC4A-49E7-4B92-8104-F4A72C6E1586",
+  "verticalSpacing": 0
+}

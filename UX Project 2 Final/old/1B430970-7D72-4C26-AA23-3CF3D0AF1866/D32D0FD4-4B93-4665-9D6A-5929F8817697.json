@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D32D0FD4-4B93-4665-9D6A-5929F8817697",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E36D46CB-B8BF-4E5A-B993-F5C77F754C36",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "253D5F5D-2766-4996-ADA0-EEF5817A2D19",
+    "height": 150,
+    "width": 720,
+    "x": 180,
+    "y": 1491
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "chevron",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7525F774-D679-4400-BD63-1B22B745CDC8",
+      "overrideName": "60A4607F-1EDB-44B9-A2DD-A3C56AFB179E_stringValue",
+      "value": "Student Showcase"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8F5335DE-B3EB-4141-BB98-9B24FEC09DF5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1270CC4A-49E7-4B92-8104-F4A72C6E1586",
+  "verticalSpacing": 0
+}

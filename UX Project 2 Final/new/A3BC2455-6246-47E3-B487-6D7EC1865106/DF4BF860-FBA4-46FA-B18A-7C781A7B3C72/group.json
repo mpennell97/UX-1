@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DF4BF860-FBA4-46FA-B18A-7C781A7B3C72",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4D65A54D-3042-4986-AF0A-7282904BA086",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6EA6900B-1AFB-4D10-AF45-8C9C0132EBC5",
+    "height": 350,
+    "width": 350,
+    "x": 125,
+    "y": 1005
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "A9126336-5AC5-4107-AB74-9BF877FFD7DD"
+    },
+    {
+      "class": "bitmap",
+      "id": "A6A5C79A-80A5-4466-A0DC-1624BABED2DC"
+    }
+  ],
+  "name": "braukmann",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0455B88C-E656-463F-BBBF-D5286AFD1755",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

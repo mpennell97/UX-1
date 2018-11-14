@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1230F48B-12DA-4FC7-BE2C-1573824B2F5E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7AB411D8-58D3-4103-9B30-10C91BE8702E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F358FCA6-3478-4AD4-BA8A-75B2EBF47792",
+    "height": 536,
+    "width": 420,
+    "x": 510,
+    "y": 434
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F027DD38-740C-4D79-8658-E156BD1FD854"
+    },
+    {
+      "class": "group",
+      "id": "5008B612-A6D0-4257-8C50-9DA6ACBB6335"
+    },
+    {
+      "class": "rectangle",
+      "id": "8B70FF0F-ED5F-40BC-B141-07B4A30648E7"
+    },
+    {
+      "class": "text",
+      "id": "4BC14DA6-9F5F-47A0-AD69-DCFA95DFE0F8"
+    },
+    {
+      "class": "text",
+      "id": "3D4995E4-CABE-40D1-856A-C3A6563CDFB6"
+    }
+  ],
+  "name": "Photo Feb 27, 5 09 20 PM",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B36C1116-2DC3-4D59-B62D-BD0A6A43E224",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

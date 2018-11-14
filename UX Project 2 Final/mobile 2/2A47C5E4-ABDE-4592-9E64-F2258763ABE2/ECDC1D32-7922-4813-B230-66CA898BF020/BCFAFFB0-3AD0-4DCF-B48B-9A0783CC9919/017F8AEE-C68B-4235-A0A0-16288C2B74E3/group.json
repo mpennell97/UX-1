@@ -1,0 +1,107 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "017F8AEE-C68B-4235-A0A0-16288C2B74E3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1783749D-25CA-43E9-8558-3D2F92702043",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F5334307-0D64-42F0-9BA3-BFD5AC2DB008",
+    "height": 7,
+    "width": 70,
+    "x": 0,
+    "y": 23.8552631578947
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "6C413DED-7D2A-4202-93FE-87CA3AEF8A87"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "691DBC0B-DD70-4752-9CBA-CCEA280537E9"
+    },
+    {
+      "class": "shapePath",
+      "id": "65B2AC40-A501-4D6A-95DC-2FA45AD8BEE0"
+    },
+    {
+      "class": "shapePath",
+      "id": "19CAA515-B9BA-4562-A682-11AFAB1A74C1"
+    },
+    {
+      "class": "shapePath",
+      "id": "64DEC1AC-ECAF-4CD2-95D0-790C3BDDF723"
+    },
+    {
+      "class": "shapePath",
+      "id": "54B0795C-0318-41BB-B571-34104B00DAC8"
+    },
+    {
+      "class": "shapePath",
+      "id": "575C4FEF-6983-4194-9957-159BC41FD08A"
+    },
+    {
+      "class": "shapePath",
+      "id": "0223229A-4CE1-4752-963F-CFB6583E714E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "312AA77F-936A-48C0-A660-CE57BEF5AB84"
+    },
+    {
+      "class": "shapePath",
+      "id": "80BE3FCA-A1F8-4433-8799-451239A41ED7"
+    }
+  ],
+  "name": "washington",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "48FB3F90-C9AF-40EC-83E3-CE7928E3D039",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

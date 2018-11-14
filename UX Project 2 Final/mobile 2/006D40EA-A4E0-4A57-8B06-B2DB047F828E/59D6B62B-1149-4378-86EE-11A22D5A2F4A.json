@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "59D6B62B-1149-4378-86EE-11A22D5A2F4A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CAB9350C-1FD8-4ED0-9E59-2C23515589C9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0627B71C-38D2-434D-A3CA-05D72425C5AB",
+    "height": 28,
+    "width": 50,
+    "x": 21,
+    "y": 99
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "H1",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A4C56FEB-4A93-463F-8B3F-7E1E5AB20DAC",
+      "overrideName": "F205E293-F088-4A75-9795-F44E04B59ECD_stringValue",
+      "value": "Staff"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7146C6C8-49E4-4C06-A993-6E1FE9B66567",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1B1AE665-DCA0-48BC-BE74-C732634D6F70",
+  "verticalSpacing": 0
+}

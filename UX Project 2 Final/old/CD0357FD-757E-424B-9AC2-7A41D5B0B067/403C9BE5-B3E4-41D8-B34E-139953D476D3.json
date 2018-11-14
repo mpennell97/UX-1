@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "403C9BE5-B3E4-41D8-B34E-139953D476D3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "26556389-9708-4929-9930-70D35ADCFC19",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8EEA232C-4E6E-45E1-9D22-034D72B049C6",
+    "height": 150,
+    "width": 1440,
+    "x": 0,
+    "y": 864
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "chevron",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E5AF71E3-3F63-4B5F-9180-44D31AF5D781",
+      "overrideName": "60A4607F-1EDB-44B9-A2DD-A3C56AFB179E_stringValue",
+      "value": "Showcase"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7264AC64-EE8B-47D3-96BF-428374A10FA0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1270CC4A-49E7-4B92-8104-F4A72C6E1586",
+  "verticalSpacing": 0
+}

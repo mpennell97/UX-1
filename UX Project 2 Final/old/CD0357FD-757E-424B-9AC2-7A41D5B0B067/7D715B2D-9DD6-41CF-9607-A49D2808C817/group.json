@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7D715B2D-9DD6-41CF-9607-A49D2808C817",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C4B7E73D-B7BB-4F4C-8552-75211A47544D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D93B4E6A-947A-4B68-BE58-28E1060FAB0A",
+    "height": 626,
+    "width": 629,
+    "x": 91,
+    "y": 4731
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F2A57838-3D88-43DC-A922-40C40472E306"
+    },
+    {
+      "class": "bitmap",
+      "id": "1C09CF77-8C99-45CB-BCD3-D69D708D59ED"
+    }
+  ],
+  "name": "VCD247",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "8914E0B8-CD10-4892-AFA2-5BED7B52699C",
+      "opacity": 0.9000000357627869
+    },
+    "do_objectID": "806BE561-CB14-4378-A289-10E06FBCB6B6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

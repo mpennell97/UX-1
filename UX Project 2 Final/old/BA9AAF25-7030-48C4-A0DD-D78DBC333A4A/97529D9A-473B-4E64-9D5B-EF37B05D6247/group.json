@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "97529D9A-473B-4E64-9D5B-EF37B05D6247",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 321,
+    "width": 1172,
+    "x": 153,
+    "y": 352
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FC2A38D0-1780-4000-8F2F-8E303B7A87EC"
+    },
+    {
+      "class": "shapePath",
+      "id": "634B01C3-45D1-4BC6-A0CC-59D6A3E2F232"
+    },
+    {
+      "class": "shapePath",
+      "id": "06664319-18B3-4DD8-B72C-233B53C9418B"
+    },
+    {
+      "class": "shapePath",
+      "id": "83328EFC-7353-4212-8678-14086C2BF276"
+    },
+    {
+      "class": "shapePath",
+      "id": "AA17EA71-C6C6-4546-BEB6-DEA6BD72D24A"
+    },
+    {
+      "class": "shapePath",
+      "id": "5F02856A-D347-4E3C-9B01-59F2BED7F8D4"
+    }
+  ],
+  "name": "Design logo",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7FE1C961-F0AE-4C45-9CFD-ED251EC79CC6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "933EB0CF-A5C4-4F9E-A40A-839DFF867891",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B2B0FE81-CE8A-46DD-AAD7-184BD06BDC6C",
+    "height": 350,
+    "width": 350,
+    "x": 545,
+    "y": 1005
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "49FB4759-2EA1-4F36-A446-76FF3A4CDC07"
+    },
+    {
+      "class": "bitmap",
+      "id": "0ECDD3DD-D85B-4178-9894-6086D260A518"
+    }
+  ],
+  "name": "ginelle",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7836814D-D024-4885-925A-66F0E170F969",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

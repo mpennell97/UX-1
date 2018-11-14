@@ -1,0 +1,107 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "352C9CFD-F594-44AD-9458-3A331BB6B717",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F52853BA-188C-4D70-8982-446DC01AD076",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EE0E3731-B541-471B-A3B4-5943F1ED990E",
+    "height": 7,
+    "width": 70,
+    "x": 0,
+    "y": 23.8552631578947
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "C1AC589F-B25E-4E92-AEAC-CECCE75A892C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E19EE8DB-C900-4C16-A4D5-2C8B12BE7BFA"
+    },
+    {
+      "class": "shapePath",
+      "id": "D654848B-3F69-40E2-A99A-10E807043CE6"
+    },
+    {
+      "class": "shapePath",
+      "id": "681423D7-043B-4F51-ABD0-FC4D9B47B091"
+    },
+    {
+      "class": "shapePath",
+      "id": "36476AB3-DAD8-48E4-B65E-F9EEB77AA287"
+    },
+    {
+      "class": "shapePath",
+      "id": "DCCF156D-AD77-4A31-9DCE-EF5E2DB8935A"
+    },
+    {
+      "class": "shapePath",
+      "id": "0AB63CDF-8AB9-4455-AC93-BAE17A0E33B1"
+    },
+    {
+      "class": "shapePath",
+      "id": "40D573E6-B3BE-4FA3-ABC4-BF3B802A295D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1DF37AF3-1090-4E26-B2E5-7A19D7E6586C"
+    },
+    {
+      "class": "shapePath",
+      "id": "3199F6D9-96C8-42B0-9E37-2DEEFBDDAB2C"
+    }
+  ],
+  "name": "washington",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "87905172-AC7A-4573-8D1E-18A3467CFD8B",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

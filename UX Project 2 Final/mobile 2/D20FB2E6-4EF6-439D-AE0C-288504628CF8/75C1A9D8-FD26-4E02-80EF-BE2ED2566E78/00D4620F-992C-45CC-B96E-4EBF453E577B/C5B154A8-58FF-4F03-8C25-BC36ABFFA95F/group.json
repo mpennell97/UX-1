@@ -1,0 +1,107 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C5B154A8-58FF-4F03-8C25-BC36ABFFA95F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ED493087-F9FA-4E65-8596-B7E92E70DA4A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "212C3888-034D-4CAA-83BE-C8F9E6092050",
+    "height": 7,
+    "width": 70,
+    "x": 0,
+    "y": 23.8552631578947
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "06FFA636-49F6-455F-8AA0-BF47E6ECB43E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B571F52C-425F-4B29-B762-136A6A50690A"
+    },
+    {
+      "class": "shapePath",
+      "id": "C510E67F-256C-41BD-B951-70F83606B3D4"
+    },
+    {
+      "class": "shapePath",
+      "id": "69595A75-143C-4BCB-86D3-70264F721A02"
+    },
+    {
+      "class": "shapePath",
+      "id": "B1E45405-DFE7-4256-919D-F7747D4F7323"
+    },
+    {
+      "class": "shapePath",
+      "id": "2CD7507B-34C0-4409-B200-129427A163B3"
+    },
+    {
+      "class": "shapePath",
+      "id": "4A058282-FBD3-461C-AFFA-18A50153340B"
+    },
+    {
+      "class": "shapePath",
+      "id": "CA449245-9D8E-4515-8A6B-7A0C5C30B24F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "09A65C82-4BF3-41BD-B63D-801D90B9ADC2"
+    },
+    {
+      "class": "shapePath",
+      "id": "D211C445-AA19-466F-B986-14FB4C4ABEAC"
+    }
+  ],
+  "name": "washington",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "73A045C8-6CA4-450B-A222-A30CD2153F0B",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

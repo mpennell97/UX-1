@@ -1,0 +1,107 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "01F4DA04-1D02-4954-B7CE-A3C484D0C00E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "44CD3C17-511C-446C-9F3A-A7BB5F5F044C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0EA16167-212C-47A2-9E71-4F0DB97F3964",
+    "height": 7,
+    "width": 70,
+    "x": 0,
+    "y": 23.8552631578947
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "6BB0D87E-C111-4C4C-8F12-5B03C3BEEC1F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "14DE06ED-DFA5-4E2A-811D-03F339C47093"
+    },
+    {
+      "class": "shapePath",
+      "id": "76EC1258-492A-4E88-8673-3A17F35E5B14"
+    },
+    {
+      "class": "shapePath",
+      "id": "91100775-1496-4E37-9111-AB7D79477415"
+    },
+    {
+      "class": "shapePath",
+      "id": "C9D46060-2E6A-4006-A5E9-59E916720BF9"
+    },
+    {
+      "class": "shapePath",
+      "id": "84448E65-F8E9-42E4-BCBA-AD63B0A1C344"
+    },
+    {
+      "class": "shapePath",
+      "id": "8F7302CA-6930-40D4-B4AB-DF279D4EC557"
+    },
+    {
+      "class": "shapePath",
+      "id": "3B9E376B-8856-4A29-81E5-C7F76F24A4E8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9203B8CA-CC95-4C58-A77B-28183173F304"
+    },
+    {
+      "class": "shapePath",
+      "id": "4338F06E-3715-4FFB-B028-D2926251C310"
+    }
+  ],
+  "name": "washington",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FC670F7E-8750-4AE4-AFF8-16673009CABD",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

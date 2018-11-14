@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8F6CEA16-B408-4862-9465-2559479E8D83",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B4EC99B5-1C8E-4071-A309-D62B612BE214",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "447A9EF5-27D4-4FC5-AE81-6EEEFB852C00",
+    "height": 350,
+    "width": 350,
+    "x": 965,
+    "y": 1005
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "D4915F9B-F3BB-4C34-A286-94857AC6CE99"
+    },
+    {
+      "class": "bitmap",
+      "id": "2DF152A3-0C7C-4C4C-B477-D2A8E2DAE38F"
+    }
+  ],
+  "name": "Mindy0133",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "12856E98-FC60-46CB-A6D4-8E44A1F1077A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

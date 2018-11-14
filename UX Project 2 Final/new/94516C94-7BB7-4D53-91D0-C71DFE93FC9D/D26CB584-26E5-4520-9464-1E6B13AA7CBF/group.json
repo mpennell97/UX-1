@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D26CB584-26E5-4520-9464-1E6B13AA7CBF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EA892E62-EDDA-423F-BF08-381C1CE859BD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "82ECF182-27D1-4817-B18D-97ED7FD31C4C",
+    "height": 370,
+    "width": 608,
+    "x": 90,
+    "y": 3045
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "3DDDC730-3A54-46FC-A4C5-62670F4E08D2"
+    },
+    {
+      "class": "bitmap",
+      "id": "AE190870-0519-413E-84CD-F9DA4EC3A4FB"
+    }
+  ],
+  "name": "design vcd",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "99BFDDA8-6A2D-43B5-804D-F1AB799701C1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

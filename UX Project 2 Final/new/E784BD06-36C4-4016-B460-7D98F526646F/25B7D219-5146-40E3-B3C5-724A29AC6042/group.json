@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "25B7D219-5146-40E3-B3C5-724A29AC6042",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "51C303CF-3275-4399-883C-63032FCDD806",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "279C9867-C72D-4610-BA15-890ACA7D0ACD",
+    "height": 350,
+    "width": 350,
+    "x": 545,
+    "y": 470
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "64F797EA-6F78-424B-820C-C6ED99D2DE42"
+    },
+    {
+      "class": "bitmap",
+      "id": "06658DE3-76C6-4903-A3DC-A2C005410D67"
+    }
+  ],
+  "name": "Photo Feb 27, 5 09 20 PM",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9B009377-C8BE-4606-8478-BED36AEACFAA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

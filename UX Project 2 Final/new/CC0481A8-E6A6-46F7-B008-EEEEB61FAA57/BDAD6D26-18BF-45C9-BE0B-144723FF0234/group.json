@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BDAD6D26-18BF-45C9-BE0B-144723FF0234",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C91E9850-4262-43D6-B397-4F0A8146C5BD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "62517769-DCBF-473C-9C35-11DF688F5C3C",
+    "height": 720,
+    "width": 1280,
+    "x": 80,
+    "y": 1867
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "524F359A-B9CD-4919-B5E5-B3FFD9FF058C"
+    },
+    {
+      "class": "bitmap",
+      "id": "85EF1320-E5D5-4A77-ACC9-3FD93F1B1AAC"
+    }
+  ],
+  "name": "suit",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3DA441CA-C409-439C-8EB1-82437993D32B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

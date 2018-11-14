@@ -1,0 +1,172 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0,
+    "do_objectID": "18994B82-7D39-4EB2-9489-8A718C9F3A40",
+    "green": 0,
+    "red": 0
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7A5EAC41-0ADB-40EB-9224-4247AAACC9B1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "59BA3F7A-956E-4B09-BF0E-3DDF6A19D83F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1370580E-E5B8-4101-94DD-FFA12422D883",
+    "height": 4010,
+    "width": 1440,
+    "x": 6980,
+    "y": 3707
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4D226AE5-1652-482B-92CE-1A1934FB262F",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B66BBF38-AB15-4C6B-BF42-DBF2F453B2F1"
+    },
+    {
+      "class": "group",
+      "id": "5689410A-D36D-4476-8382-AF1FC6C9E778"
+    },
+    {
+      "class": "group",
+      "id": "FA6EA65C-C0F0-4030-AD31-24E5EEA94475"
+    },
+    {
+      "class": "group",
+      "id": "6462A059-29BE-4FD2-A893-CD701D358ED7"
+    },
+    {
+      "class": "group",
+      "id": "1432C027-BB07-41D2-9426-9C1093D4F98E"
+    },
+    {
+      "class": "group",
+      "id": "C09BCD09-67EF-4063-AFAE-B6F6FD668FF4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "687BB0D0-523C-4681-8ECE-DC97A6430B0E"
+    },
+    {
+      "class": "group",
+      "id": "CDAA9F9D-C1BE-4035-9ED7-94E330677DBC"
+    },
+    {
+      "class": "group",
+      "id": "425871A7-07AD-422C-B615-206DB37F64B5"
+    },
+    {
+      "class": "group",
+      "id": "4D34C286-32CE-4677-8DAF-6F1487F2F8AE"
+    },
+    {
+      "class": "group",
+      "id": "99F1E304-74A4-40F1-A959-1EED1E128246"
+    },
+    {
+      "class": "rectangle",
+      "id": "9E9DFE7F-6A32-40B8-B896-E10A6F38D3C9"
+    },
+    {
+      "class": "group",
+      "id": "436A3A01-EDA1-4C18-AE4B-22EE328520A9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "407CDD17-AD38-428A-AA83-3C14DAC38F10"
+    },
+    {
+      "class": "group",
+      "id": "B3486050-F08B-4B18-B203-A400B3BF2A5C"
+    },
+    {
+      "class": "rectangle",
+      "id": "641D5680-AB21-499F-810E-B671FB7F95AC"
+    },
+    {
+      "class": "text",
+      "id": "5B1402E6-D534-4F3D-8F8A-B2D74CBC3043"
+    },
+    {
+      "class": "text",
+      "id": "4285BB2A-EA06-4038-8DEA-E52130C3E751"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "do_objectID": "7122522B-8B89-4F4E-BAB5-04DFDBCE87AC",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 60,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1440
+  },
+  "name": "Showcase1",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "71DAA9D8-293F-43B9-B95C-6BAE71DA1005",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "41D3341E-5890-4048-BFDF-8DF41C861878",
+    "guides": [
+      192
+    ]
+  }
+}

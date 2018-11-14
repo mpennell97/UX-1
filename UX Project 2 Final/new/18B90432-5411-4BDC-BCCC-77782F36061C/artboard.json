@@ -1,0 +1,172 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0,
+    "do_objectID": "5F9BDBB0-EAD9-4E2C-8081-2F4C45B41C62",
+    "green": 0,
+    "red": 0
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "18B90432-5411-4BDC-BCCC-77782F36061C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7AD7FE08-ED70-4E38-B03A-F22C0D391D7E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7D6F2B13-884F-4A52-B93A-2B9DEC3ABF71",
+    "height": 4010,
+    "width": 1440,
+    "x": 6980,
+    "y": 29027
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "017D1F7C-4A7D-4CE8-AAAA-67F72386953F",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D4B5420E-C1B0-41AD-937C-C9A66183A65B"
+    },
+    {
+      "class": "group",
+      "id": "C46E7D35-823A-44FE-A090-73E0F9C7EA1C"
+    },
+    {
+      "class": "group",
+      "id": "B6A17611-3267-4FC1-AAB7-E07ED6F27C6E"
+    },
+    {
+      "class": "group",
+      "id": "7955BCE0-80A2-4481-B83E-F07ECF474224"
+    },
+    {
+      "class": "group",
+      "id": "E7B10216-0660-4DF3-B83C-C9BB14681730"
+    },
+    {
+      "class": "group",
+      "id": "4485391E-2F21-4466-B3BE-D3CC3C67EF48"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "38176CD9-6977-49C0-BD1C-7E8DCFD47213"
+    },
+    {
+      "class": "group",
+      "id": "4C22EF75-7218-487F-AFFC-64BB65CAABFE"
+    },
+    {
+      "class": "group",
+      "id": "DCA7652D-0B78-4923-B3F9-730F082B9EA9"
+    },
+    {
+      "class": "group",
+      "id": "E15230B3-8DD8-46B6-B94C-6864A2325720"
+    },
+    {
+      "class": "group",
+      "id": "90CAE7CF-989E-4289-8F9F-4FB3252CB079"
+    },
+    {
+      "class": "rectangle",
+      "id": "0B19A82D-5157-4B37-8C24-3525F74E426B"
+    },
+    {
+      "class": "group",
+      "id": "D49A283F-B3FE-41D4-AADA-0C67233D305F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7E3C4692-9E51-482E-A1ED-2B4C9370767E"
+    },
+    {
+      "class": "group",
+      "id": "6E17C63F-F679-405D-B5B2-C9F9A1FD27C4"
+    },
+    {
+      "class": "rectangle",
+      "id": "0A5D4BEC-DBB6-4052-B085-33B75937A84D"
+    },
+    {
+      "class": "text",
+      "id": "6B8342E2-F5A0-481A-A18E-45E5B7504202"
+    },
+    {
+      "class": "text",
+      "id": "7348298C-C482-4525-BA80-05CA0102C394"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "do_objectID": "7B09628A-E8B6-41CE-8EBA-3EFB6FD96415",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 60,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1440
+  },
+  "name": "Showcase7",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5F97F9B6-A8FF-4185-8829-A5A9949DA33C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "566F33AD-C511-47DE-B794-916657F81FA5",
+    "guides": [
+      192
+    ]
+  }
+}
